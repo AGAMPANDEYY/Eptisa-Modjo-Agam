@@ -1,0 +1,35 @@
+# Ignore all files in these directories
+../../$MfeDeepRem/
+../../$Recycle.Bin/
+../../$WinREAgent/
+../C++/
+../C/
+../Dji/
+../Ds_Py/
+../Git/
+../HTML_JS_CSS/
+../IITR Subjects/
+../NIT_nagpur/
+../Personal/
+../htmlsandbox/
+../../Apps/
+../../Autodesk/
+../../Dell/
+../../Drivers/
+../../Program Files (x86)/
+../../Program Files/
+../../ProgramData/
+../../Python/
+../../Users/
+../../VsCode/
+../../Windows/
+../../dell.sdr
+../../hiberfil.sys
+../../pagefile.sys
+../../swapfile.sys
+
+# Ignore specific files
+../../DumpStack.log
+../../DumpStack.log.tmp
+../../OneDriveTemp/
+../../Setup.log
